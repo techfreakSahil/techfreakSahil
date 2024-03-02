@@ -1,5 +1,7 @@
+[![MasterHead](https://www.pinterest.com/pin/10696117856781829/)]
 <h1 align="center">Hi 👋, I'm Md Sahil Khan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/coding-concept-illustration_6572420.htm#query=full%20stack%20developer&position=27&from_view=keyword&track=ais&uuid=53d6019b-29fe-4087-93ec-56a52176b4d3" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techfreaksahil&label=Profile%20views&color=0e75b6&style=flat" alt="techfreaksahil" /> </p>
 
